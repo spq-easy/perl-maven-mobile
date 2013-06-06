@@ -20,6 +20,8 @@
     permission on your app, which PhoneGap requires. -->
   <preference name="permissions" value="none"/>
 
+  <icon src="img/308b3fc.png" />
+
 
   <!-- See http://build.phonegap.com/docs/config-xml for more details -->
 </widget>

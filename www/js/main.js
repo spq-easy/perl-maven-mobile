@@ -6,3 +6,7 @@ var SPQ = {
         });
     }
 }
+
+$(document).ready(function () {
+    SPQ.initialize();
+});
