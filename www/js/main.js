@@ -1,8 +1,9 @@
 var SPQ = {
     initialize: function() {
         $('#btn-email-input-test').click(function () {
-            console.log($(this));
-            $('#email-input').html = $(this).html
+            console.log($('#btn-email-input-test').val());
+            console.log($('#email-input').html);
+            $('#email-input').html($('#field-email').val());
         });
     }
 }

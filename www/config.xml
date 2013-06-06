@@ -3,7 +3,7 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "net.seanquinlan.mobile"
     versionCode="5"
-    version   = "0.0.7">
+    version   = "0.0.8">
   <name>SPQ-Easy Mobile Examples</name>
   <description>
     Mobile Application Examples
@@ -20,7 +20,7 @@
     permission on your app, which PhoneGap requires. -->
   <preference name="permissions" value="none"/>
 
-  <icon src="img/308b3fc.png" />
+  <icon src="icon.png" />
 
 
   <!-- See http://build.phonegap.com/docs/config-xml for more details -->
